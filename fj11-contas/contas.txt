@@ -1,0 +1,4 @@
+Conta Corrente,1,Targaryen,Daenerys ,0.0
+Conta Poupança,2,Stark,Eddard ,0.0
+Conta Poupança,3,Stark,Jon Snow,0.0
+Conta Corrente,4,Lannister,Tyrion,0.0
