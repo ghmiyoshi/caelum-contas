@@ -1,4 +1,4 @@
-# Projeto do curso de Java e Orientação a Objetos - FJ11 da Caelum
+# Caelum FJ11 - Java e Orientação a Objetos
 
 ## Resumo
 Foi desenvolvido um sistema bancário.
