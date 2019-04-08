@@ -1,6 +1,10 @@
 # Caelum FJ11 - Java e Orientação a Objetos
-
-## Resumo
 Foi desenvolvido um sistema bancário.
 
-* Tecnologias, ferramentas e padrões utilizados:
+## Resumo
+É póssivel criar dois tipo de conta, conta corrente e conta poupança, com	as informações do saldo, titular, número e agência e operações de saque, depósito e transferência.
+O sistema tributa dinheiro de alguns bens	que	os clientes possuem e calcula o valor total dos impostos de todos os tributáveis. Conta poupanca não	é	tributável,	já conta corrente é preciso pagar 1% da conta e o seguro de vida tem uma taxa fixa de 42 reais mais 2% do valor do seguro.
+Sempre que o cliente tentar sacar, depositar e transferir um valor negativo, é lançado uma exception. As contas cadastradas aparecem em ordem alfabética de titular e são salvas em um arquivo para não	precisar ficar adicionando as contas a todo momento.
+
+jar que contém a interface gráfica do usuário: fj11-lib-contas.jar
+  
